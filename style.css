@@ -24,7 +24,7 @@ h3 {
 }
 
     main { 
-        display: grid;
+        display:grid;
         grid-template-columns: 40% 60%;
         margin-top: 2em;
         margin-right: 4em;
@@ -48,12 +48,12 @@ h3 {
     }
     
     hr {
-        border: 2em;
+        border: auto;
         border-width: .5em;
         border-top: 1.5em;
-        border-color: rgb(0, 106, 255);
-        background-color: lightgray;
-        height: 1px;
+        border-color: rgb(7, 97, 31);
+        background-color: rgb(235, 237, 232);
+        height: px;
     }
     
     h1, h2, h3 {
@@ -61,7 +61,7 @@ h3 {
         margin-bottom: auto;
     }
     #mainLeft {
-        border-right: 4px solid rgb(211, 211, 211);
+        border-right: 4px solid rgb(8, 163, 8);
         margin-top: 4em;
         margin-right: 4em;
         margin-left: em;
